@@ -1,0 +1,9 @@
+{
+	"name": "rmmdemoADF",
+	"location": "EastUS",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "836d5659-f37c-4fa5-84d9-90f54a5bb8e3",
+		"tenantId": "8170d332-978e-450a-8d6f-5ab897f99f47"
+	}
+}
